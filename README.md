@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### I am a student at UT Austin studying Computer Science. I am seeking a challenging internship position in the software engineering field where I can utilize my full-stack development skills to contribute to the company's success and broaden my experience. I am located in Austin, TX, and am open to relocating for work.
 <!--
 **IsaacThomas245/IsaacThomas245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
